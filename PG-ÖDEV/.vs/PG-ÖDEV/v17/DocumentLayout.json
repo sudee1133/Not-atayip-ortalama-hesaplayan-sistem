@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\PG-\u00D6DEV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{486B48CC-4B7B-4A48-89B5-96C4879777E0}|PG-\u00D6DEV\\PG-\u00D6DEV.vcxproj|C:\\Users\\Lenovo\\source\\repos\\PG-\u00D6DEV\\PG-\u00D6DEV\\Kaynak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{486B48CC-4B7B-4A48-89B5-96C4879777E0}|PG-\u00D6DEV\\PG-\u00D6DEV.vcxproj|solutionrelative:PG-\u00D6DEV\\Kaynak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kaynak.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PG-\u00D6DEV\\PG-\u00D6DEV\\Kaynak.cpp",
+              "RelativeDocumentMoniker": "PG-\u00D6DEV\\Kaynak.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PG-\u00D6DEV\\PG-\u00D6DEV\\Kaynak.cpp",
+              "RelativeToolTip": "PG-\u00D6DEV\\Kaynak.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-24T09:06:48.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

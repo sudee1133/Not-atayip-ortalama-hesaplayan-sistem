@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (PG-ÖDEV.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Kaynak.cpp
+C:\Users\Lenovo\source\repos\PG-ÖDEV\PG-ÖDEV\Kaynak.cpp(99,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\source\repos\PG-ÖDEV\PG-ÖDEV\Kaynak.cpp(130,159): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\source\repos\PG-ÖDEV\PG-ÖDEV\Kaynak.cpp(145,25): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\source\repos\PG-ÖDEV\PG-ÖDEV\Kaynak.cpp(68,66): warning C4101: 'yil_sonu_notu': yerel değişken başvurusu kaldırıldı
+C:\Users\Lenovo\source\repos\PG-ÖDEV\PG-ÖDEV\Kaynak.cpp(65): warning C4715: 'get_Harf_Notu': tüm denetim yolları değer döndürmez
+  PG-ÖDEV.vcxproj -> C:\Users\Lenovo\source\repos\PG-ÖDEV\x64\Debug\PG_ÖDEV1.exe
